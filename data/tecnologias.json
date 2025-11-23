@@ -1,0 +1,26 @@
+[
+  {
+    "title": "React",
+    "image": "HTML.png",
+    "description": "Uma biblioteca JavaScript para criar interfaces de utilizador de forma rápida e componentizada.",
+    "rating": 5
+  },
+  {
+    "title": "Next.js",
+    "image": "CSS.png",
+    "description": "Framework moderna para React com renderização híbrida, rotas automáticas e performance otimizada.",
+    "rating": 5
+  },
+  {
+    "title": "TypeScript",
+    "image": "JSON.png",
+    "description": "Superset do JavaScript que adiciona tipagem estática, melhorando a produtividade e a segurança.",
+    "rating": 4
+  },
+  {
+    "title": "Tailwind CSS",
+    "image": "Tailwind.png",
+    "description": "Framework de CSS utilitário altamente flexível para construção rápida de interfaces modernas.",
+    "rating": 4
+  }
+]
